@@ -8,7 +8,7 @@
         </h2>
         <div class="w-20 h-1 bg-orange-500 mx-auto mb-6"></div>
         <p class="text-gray-600 max-w-7xl mx-auto">
-          Founded in May 2025, <span class="text-orange-500 font-bold">PT Solusi Teknologi Cakra Emas</span> is an innovative
+          Founded in May 2025, <span class="text-orange-500 font-bold">Solusi Teknologi Cakra Emas</span> is an innovative
           IT consulting and software development company dedicated to
           simplifying workflows and empowering businesses through cutting-edge
           technology. We specialize in custom web and application development,
